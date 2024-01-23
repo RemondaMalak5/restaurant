@@ -1,0 +1,199 @@
+   .test1 {
+     width: 100%;
+     /* height: 750; */
+     /* background-color: red; */
+     /* text-align: center;   */
+     /* padding: 200px 0px;      */
+     background-image: url(images/drew-coffman-1872.jpg);
+     background-size: cover;
+     background-position: center;  
+      /* color: fff; */ 
+   }
+
+ 
+
+ img {
+     width: 200px;
+     /* background-color: blue; */
+ } 
+
+  .test2 {
+     text-align: center;
+     color: fff;
+     padding: 250px;
+     /* background-color: blue;  */
+ } 
+
+
+.t5{
+    width: 100%;
+     /* background-color: rgb(238, 231, 231);  */
+  
+}
+ .test3 {
+    width: 35%;
+    /* background-color: blue; */
+    float: left;
+    margin:  100px 0px 100px 150px;
+   
+ }
+ 
+.image1{
+    width: 100%;
+   
+}
+ 
+.test4{
+    width: 35%;
+    float: right;
+  margin: 100px 200px 100px 100px;
+}
+
+.image-test4{
+    width: 40px;
+}
+h5{
+    display: inline-block;
+   
+}
+
+.crl{
+    clear: both;
+}
+
+.test6{
+    width: 100%;
+   background-color: rgb(244, 242, 242);
+
+}
+
+.test6-1{
+    width: 35%;
+    /* background-color: blue; */
+    float: left;
+    margin: 200px 100px ;
+    
+   
+}
+.test6-2{
+    width: 35%;
+    /* background-color: blueviolet; */
+    float: right;
+    margin: 100px 150px 100px 0px;
+    
+}
+
+.image-test6{
+    width: 100%;
+}
+
+
+.test7{
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+.test7-1{
+    width: 25%;
+     /* background-color: blue;  */
+    text-align: center;
+    float: left;
+    margin: 50px 20px 20px 150px;
+}
+
+.test7-2{
+    width: 25%;
+     /* background-color: blue;  */
+    text-align: center;
+    float: left;
+    margin: 50px 20px 20px ;
+
+}
+.test7-3{
+    width: 25%;
+    /* background-color: blue;  */
+    text-align: center;
+    float: left;
+    margin: 50px 100px 20px 30px;
+}
+.image-test7{
+    width: 100%;
+} 
+
+
+.test8{
+    width: 100%;
+    background-color: rgb(244, 242, 242) ;
+}
+.test8-1{
+    width: 40%;
+    /* background-color: blueviolet; */
+    margin: 100px ;
+    float: left;
+}
+
+.image-test8{
+    width: 40px;
+}
+
+.test8-2{
+    width: 40%;
+    background-color: rgb(113, 20, 76);
+    float: left;
+    margin: 100px 0px ;
+}
+
+ .image-test8-1{
+    width: 100%;
+ }
+
+ .test9{
+    width: 100%;
+    background-color: #403d38;
+     
+    color: #969696;;
+    /* margin: 100px 50px; */
+
+ }
+.test9-1{
+    width: 25%;
+    float: left;
+    /* background-color: blueviolet; */
+    
+} 
+
+.test9-2{
+    width: 25%;
+    float: left;
+   
+   
+}
+
+
+ .test9-3{
+    width: 25%;
+    float: left;
+   
+    
+    
+}
+
+.test9-4{
+    width: 25%;
+    float: left;
+      background-image: url(images/contact-details-map.png); 
+      background-size: 80%;
+      background-position: center;
+      background-repeat:no-repeat ;
+    
+}
+.test9-5{
+
+    text-align: center;
+    
+}
+.image-test9{
+    width: 30%;
+}
